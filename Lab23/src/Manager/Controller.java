@@ -11,10 +11,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.Hashtable;
 
-/**
- *
- * @author Admin
- */
 public class Controller {
     private ArrayList<Fruit> ls = new ArrayList<>();
     private Hashtable<String, ArrayList<Fruit>> ht = new Hashtable<>();
