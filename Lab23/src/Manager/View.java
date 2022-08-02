@@ -4,10 +4,6 @@ package Manager;
 import Entity.Fruit;
 import Entity.Order;
 
-/**
- *
- * @author Admin
- */
 public class View {
    Controller c = new Controller();
  
