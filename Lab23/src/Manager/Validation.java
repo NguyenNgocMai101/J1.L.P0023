@@ -3,10 +3,6 @@ package Manager;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Admin
- */
 public class Validation {
     private final static Scanner sc = new Scanner(System.in);
     
